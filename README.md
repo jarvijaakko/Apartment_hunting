@@ -1,4 +1,4 @@
-# Apartment_hunting
+# Apartment hunting
 
 This Jupyter Notebook was born out of awe about people who base their apartment buying decisions on endless clicking and, eventually, on a feeling. I decided to take a slightly different approach by creating a Python web scraping tool that goes through all one bedroom apartments in Helsinki in 30 seconds and show all essential information accordingly. 
 
