@@ -16,11 +16,14 @@ The amount of apartment postings per district are shown here.
 
 ![Jee_03](https://user-images.githubusercontent.com/69734538/137811596-a3f25232-58c2-4451-8c09-6cf3cd9def7f.png)
 
+This graph shows the average sqm prices with average sqm prices calculated from realized sales prices in red.
 
 ![Jee_04](https://user-images.githubusercontent.com/69734538/137811616-809b4804-dd54-42e0-a36c-983ae232b109.png)
 
+Here, I've plotted the sqm price distribution of the apartment postings for the Kallio region.
 
 ![Jee_05](https://user-images.githubusercontent.com/69734538/137811627-128338ca-950b-4d8c-a2f2-9548d4d8e7cd.png)
 
+This graph shows the sqm prices of all apartment listings in Kallio by address.
 
 ![Jee_06](https://user-images.githubusercontent.com/69734538/137811637-7adfe4a6-edce-4c3a-8aaa-371fc9456f8d.png)
